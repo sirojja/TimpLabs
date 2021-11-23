@@ -1,0 +1,1 @@
+The program prohibits renaming, creating and copying files with forbidden names. The list of banned names is stored in the templates.tbl file. The program starts and stops using the password, which is stored in a hashed form in the same file. The program works using the fswatch file system monitoring system.
